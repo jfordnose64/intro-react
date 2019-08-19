@@ -1,9 +1,16 @@
 import React, { Component } from 'react'
-import HelloWorld from './components/HelloWorld'
-
+import NavBar from './components/NavBar'
+import Funny from './components/Funny'
+import Footer from './components/Footer'
 class App extends Component {
   render() {
-    return <HelloWorld />
+    return (
+      <main>
+        <NavBar />
+        <Funny />
+        <Footer />
+      </main>
+    )
   }
 }
 
