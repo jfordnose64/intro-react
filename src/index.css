@@ -49,14 +49,14 @@ body {
   padding-top: 0.25rem;
   font-weight: 300;
   color: #586069;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 .faq {
   margin: 0rem;
   padding-top: 0.25rem;
   font-weight: 300;
-  font-size: 1rem;
+  font-size: 1.2rem;
   text-decoration-line: underline;
   color: #586069;
 }
@@ -94,8 +94,8 @@ img {
 
 .footer {
   text-align: flex-start;
-  font-size: 1.5rem;
-  font-weight: 100;
+  font-size: 1rem;
+  font-weight: 200;
   color: #586069;
   margin: 3rem;
   border-top: 1px solid #586069;
